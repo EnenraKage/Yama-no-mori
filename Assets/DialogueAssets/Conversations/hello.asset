@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: hello
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 0f93c5d9dcc73934e85d4db4e93c85a5, type: 2}
+  speakerRight: {fileID: 11400000, guid: c3228e86c8dd6104eb1a4be10c3c23b4, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 0f93c5d9dcc73934e85d4db4e93c85a5, type: 2}
+    text: hello, friend
+    mood: 0
+  - character: {fileID: 11400000, guid: c3228e86c8dd6104eb1a4be10c3c23b4, type: 2}
+    text: HELLO!!!!!
+    mood: 0
+  question: {fileID: 11400000, guid: 5b5afa7ab034a934aa67e2f4fdcbbdfa, type: 2}
+  nextConversation: {fileID: 0}
+  trigger: {fileID: 0}

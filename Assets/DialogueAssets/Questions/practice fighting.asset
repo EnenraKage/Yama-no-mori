@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2785b0750f3d8e146bdb2be034d3fbca, type: 3}
+  m_Name: practice fighting
+  m_EditorClassIdentifier: 
+  text: wanna practice fighting?
+  choices:
+  - text: yes
+    conversation: {fileID: 11400000, guid: 450445347b3986b42ad3566c3ace2e55, type: 2}
+  - text: 'no
+
+'
+    conversation: {fileID: 11400000, guid: 510b50be8de56da4dbca324952d33c6c, type: 2}
